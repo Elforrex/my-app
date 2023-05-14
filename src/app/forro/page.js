@@ -5,8 +5,6 @@ export default function Home() {
         <h1 className="logo">
           Bienvenidos a mi primer pagina web
         </h1>
-        <div class="absolute inset-0 -z-10 animate-fade-in" aria-hidden="true"><canvas width="794" height="600" style={{width: '794px', height: '600px'}}></canvas></div>
-        <h1 class="z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">chronark</h1>
         <div className="flex flex-row items-center justify-center mt-4">
         </div>
         <h2 className="m-3 text-2xl text-purple-500">Como aprender a usar javascript Esencial :</h2>
