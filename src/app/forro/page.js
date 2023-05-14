@@ -9,9 +9,9 @@ export default function Home() {
         <h1 class="z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">chronark</h1>
         <div className="flex flex-row items-center justify-center mt-4">
         </div>
-        <h2 className="m-3 text-2xl text-purple-500">Como aprender a usar tailwindcss :</h2>
+        <h2 className="m-3 text-2xl text-purple-500">Como aprender a usar javascript Esencial :</h2>
         <ol className="list-decimal">
-          <li>Lo primero que tenemos que hacer es instalar tailwindcss</li>
+          <li>Lo primero que tenemos que hacer es instalar tailwindcss o mejor js</li>
           <li>Tenes que ir a la pagina:<a className="text-red-500" href="https://tailwindcss.com/docs/installation"> Toca acá</a></li>
           <li className="pt-2">
           <div className="mockup-code w-4">
